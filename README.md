@@ -1,8 +1,7 @@
 
+![Software Tester](https://pbs.twimg.com/profile_banners/728639484502417410/1715800970/1500x500)
 ### Hi there 👋, Nazmul Hasan
 #### Software Tester
-![Software Tester] (https://pbs.twimg.com/profile_banners/728639484502417410/1715800970/1500x500)
-
 👋 Hello! I'm a software enthusiast from Dhaka, Bangladesh, with a passion for crafting code that pushes boundaries and sparks innovation. 🌟 I believe in turning ideas into reality through the power of technology.
 
 ⚽ Football and 🏏 cricket are my go-to hobbies, offering a perfect balance to my coding adventures. Whether I'm on the field or behind a screen, I'm always striving for excellence.
