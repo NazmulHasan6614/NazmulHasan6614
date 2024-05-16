@@ -21,5 +21,5 @@ Skills: Java/selenium/TestNG
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/NazmulHasan6614)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/NazmulHasan6614&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/NazmulHasan6614&show_icons=true&count_private=true) 
 
